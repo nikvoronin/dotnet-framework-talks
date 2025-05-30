@@ -24,7 +24,7 @@ __Место проведения:__ Under Митап #1, г. Владимир, 
 ## Вопросы
 
 - Не кажется ли, что платформа .NET вымирает?
-- [Слайд №7](https://github.com/nikvoronin/dotnet-framework-talks/blob/master/slides/07.png). Предположим я учил C# в ВУЗе, какое направление лучше выбрать?
+- [Слайд №8](https://github.com/nikvoronin/dotnet-framework-talks/blob/master/slides/07.png). Предположим я учил C# в ВУЗе, какое направление лучше выбрать?
 - Очень странно, что методы именуются с заглавной буквы (не как в Java), почему так?
 
 ## Hints
